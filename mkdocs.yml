@@ -1,0 +1,7 @@
+site_name: "kbm-agni-bhuvanesh-002"
+docs_dir: docs
+site_description: "kbm-agni-bhuvanesh-002"
+nav:
+  - Introduction: index.md
+plugins:
+  - techdocs-core

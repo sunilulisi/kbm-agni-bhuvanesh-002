@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "kbm-agni-bhuvanesh-002"
+  description: "kbm-agni-bhuvanesh-002"
+  annotations:
+    argocd/app-name: "kbm-agni-bhuvanesh-002"
+    sonarqube.org/project-key: "kbm-agni-bhuvanesh-002"
+    jenkins.io/job-full-name: "kbm-agni-bhuvanesh-002_App_Pipeline"
+    #github.com/project-slug: kbmdev/kbm-agni-bhuvanesh-002
+    backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: "kbm-agni-bhuvanesh-002"
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/team-founders"
