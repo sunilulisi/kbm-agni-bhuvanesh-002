@@ -9,7 +9,7 @@ metadata:
     jenkins.io/job-full-name: "kbm-agni-bhuvanesh-002_App_Pipeline"
     #github.com/project-slug: kbmdev/kbm-agni-bhuvanesh-002
     backstage.io/techdocs-ref: dir:.
-    backstage.io/kubernetes-id: "kbm-agni-bhuvanesh-002"
+    #backstage.io/kubernetes-id: "kbm-agni-bhuvanesh-002"
 spec:
   type: website
   lifecycle: experimental
